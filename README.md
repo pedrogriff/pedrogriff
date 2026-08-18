@@ -7,7 +7,7 @@
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-Talos%20Linux-326ce5?style=flat&logo=kubernetes&logoColor=white)](https://github.com/pedrogriff/homelab-k8s-talos)
 [![Code Style](https://img.shields.io/badge/Code%20Style-Ruff-000000?style=flat&logo=ruff)](https://github.com/astral-sh/ruff)
 [![Type Checked](https://img.shields.io/badge/Type%20Checked-MyPy%20Strict-brightgreen)](https://mypy-lang.org)
-[![AI Fluency](https://img.shields.io/badge/AI%20Fluency-Agentic%20Workflows-blueviolet)](https://github.com/pedrogriff)
+[![AI Fluency](https://img.shields.io/badge/AI%20Fluency-Agentic%20Tool%20Calling-blueviolet)](https://github.com/pedrogriff)
 
 ---
 
@@ -18,11 +18,12 @@ Specialized in engineering high-throughput computational tools, deterministic fi
 
 ### 🚀 Featured Technical Systems
 
-| System | Focus & Capabilities | Tech Stack |
-| :--- | :--- | :--- |
-| **[`vesting-sim-engine`](https://github.com/pedrogriff/vesting-sim-engine)** | High-throughput Monte Carlo simulation & equity valuation engine. Distributes complex vesting schedules (such as front-loaded 33/33/22/12) using the **Largest Remainder Method** to guarantee exact share conservation ($\sum s_i \equiv S_{\text{total}}$). Evaluates millions of price paths in parallel across worker pools. | Python 3.13, Multiprocessing, Hypothesis, GBM Stochastic Modeling |
-| **[`algocore-ds`](https://github.com/pedrogriff/algocore-ds)** | Computational laboratory for foundational algorithms, memory profiling, and high-performance indexing. Implements cache-aware contiguous dynamic arrays, circular ring buffers, open-addressing HashMaps with Tombstones, and augmented AVL trees with $O(\log N)$ percentile calculation. | Python 3.13, Ctypes Contiguous Memory, Pytest, Benchmarks |
-| **[`homelab-k8s-talos`](https://github.com/pedrogriff/homelab-k8s-talos)** | Declarative, immutable bare-metal Kubernetes cluster infrastructure powered by **Talos Linux**. Implements GitOps workflows, automated certificate management, private container orchestration, and resilient self-healing cloud infrastructure. | Kubernetes, Talos Linux, GitOps, Container Orchestration, IaC |
+| System | Focus & Capabilities | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **[`comp-flow-platform`](https://github.com/pedrogriff/comp-flow-platform)** | Agentic compensation calibration & workflow platform. Orchestrates autonomous ReAct compliance loops with deterministic tool-calling (salary bands, equity guidelines, compa-ratio calculations) and state machine governance for calibration committees. Audits 60,000+ proposals/sec. | Python 3.13, Agentic ReAct, State Machines, Tool Calling, Pytest | [![CI](https://github.com/pedrogriff/comp-flow-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/pedrogriff/comp-flow-platform/actions) |
+| **[`vesting-sim-engine`](https://github.com/pedrogriff/vesting-sim-engine)** | High-throughput Monte Carlo simulation & equity valuation engine. Distributes complex vesting schedules (such as front-loaded 33/33/22/12) using the **Largest Remainder Method** to guarantee exact share conservation ($\sum s_i \equiv S_{\text{total}}$). Evaluates millions of price paths in parallel across worker pools. | Python 3.13, Multiprocessing, Hypothesis, GBM Stochastic Modeling | [![CI](https://github.com/pedrogriff/vesting-sim-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/pedrogriff/vesting-sim-engine/actions) |
+| **[`algocore-ds`](https://github.com/pedrogriff/algocore-ds)** | Computational laboratory for foundational algorithms, memory profiling, and high-performance indexing. Implements cache-aware contiguous dynamic arrays, circular ring buffers, open-addressing HashMaps with Tombstones, and augmented AVL trees with $O(\log N)$ percentile calculation. | Python 3.13, Ctypes Contiguous Memory, Pytest, Benchmarks | [![CI](https://github.com/pedrogriff/algocore-ds/actions/workflows/ci.yml/badge.svg)](https://github.com/pedrogriff/algocore-ds/actions) |
+| **[`homelab-k8s-talos`](https://github.com/pedrogriff/homelab-k8s-talos)** | Declarative, immutable bare-metal Kubernetes cluster infrastructure powered by **Talos Linux**. Implements GitOps workflows, automated certificate management, private container orchestration, and resilient self-healing cloud infrastructure. | Kubernetes, Talos Linux, GitOps, Container Orchestration, IaC | Active |
 
 ---
 
