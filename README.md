@@ -2,26 +2,12 @@
 **Total Rewards Technology & Quantitative Compensation Systems**  
 *Engineering Scalable Compensation Engines, Modern Agentic AI Workflows & Cloud Infrastructure*
 
-[![GitHub](https://img.shields.io/badge/GitHub-pedrogriff-181717?style=flat&logo=github)](https://github.com/pedrogriff)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue?style=flat&logo=typescript)](https://github.com/pedrogriff/nextcomp)
-[![Next.js](https://img.shields.io/badge/Next.js-15%20App%20Router-black?style=flat&logo=next.js)](https://github.com/pedrogriff/nextcomp)
 [![Python](https://img.shields.io/badge/Python-3.11%20%7C%203.12%20%7C%203.13-blue?style=flat&logo=python)](https://python.org)
-[![pgvector](https://img.shields.io/badge/pgvector-Cosine%20Search%20(%3C%3D%3E)-336791?style=flat&logo=postgresql)](https://github.com/pedrogriff/nextcomp)
-[![Trigger.dev](https://img.shields.io/badge/Trigger.dev-v3%20Workers-00F2FE?style=flat)](https://github.com/pedrogriff/nextcomp)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-Talos%20Linux%20v1.36-326ce5?style=flat&logo=kubernetes&logoColor=white)](https://github.com/pedrogriff/homelab-k8s-talos)
-[![Topology](https://img.shields.io/badge/Topology-Multi--Node%20Cluster-blue?style=flat&logo=kubernetes&logoColor=white)](https://github.com/pedrogriff/homelab-k8s-talos)
-[![Disaster Recovery](https://img.shields.io/badge/Disaster%20Recovery-Velero%20%26%20MinIO%20S3-0052CC?style=flat&logo=minio&logoColor=white)](https://github.com/pedrogriff/homelab-k8s-talos)
-[![CI/CD](https://img.shields.io/badge/CI%2FCD-Self--Hosted%20ARC%20Runners-black?style=flat&logo=githubactions&logoColor=white)](https://github.com/pedrogriff/homelab-k8s-talos)
-[![SSO](https://img.shields.io/badge/Identity-Authentik%20SSO-blue?style=flat&logo=authentik&logoColor=white)](https://github.com/pedrogriff/homelab-k8s-talos)
-[![MCP](https://img.shields.io/badge/MCP-FastMCP%20Server-8A2BE2?style=flat)](https://github.com/pedrogriff/homelab-k8s-talos)
-[![eBPF](https://img.shields.io/badge/eBPF-Cilium%20%26%20Hubble-blue?style=flat&logo=cilium&logoColor=white)](https://github.com/pedrogriff/homelab-k8s-talos)
-[![GitOps](https://img.shields.io/badge/GitOps-ArgoCD-orange?style=flat&logo=argo&logoColor=white)](https://github.com/pedrogriff/homelab-k8s-talos)
-[![Observability](https://img.shields.io/badge/Observability-Prometheus%20%26%20Grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://github.com/pedrogriff/homelab-k8s-talos)
-[![Code Style](https://img.shields.io/badge/Code%20Style-Ruff-000000?style=flat&logo=ruff)](https://github.com/astral-sh/ruff)
-[![Type Checked](https://img.shields.io/badge/Type%20Checked-MyPy%20Strict%20%7C%20TypeScript-brightgreen)](https://mypy-lang.org)
-[![AI Fluency](https://img.shields.io/badge/AI%20Fluency-Agentic%20Tool%20Calling-blueviolet)](https://github.com/pedrogriff)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue?style=flat&logo=typescript)](https://github.com/pedrogriff/nextcomp)
 [![Agent Mesh](https://img.shields.io/badge/Agent%20Orchestrator-Stateful%20HITL%20DAG-blueviolet)](https://github.com/pedrogriff/people-agent-mesh)
+[![MCP](https://img.shields.io/badge/MCP-FastMCP%20Server-8A2BE2?style=flat)](https://github.com/pedrogriff/people-agent-mesh)
 [![RegTech](https://img.shields.io/badge/RegTech-CVM%20Res.%2080%20%7C%20CPC%2010%20(R1)-purple?style=flat)](https://github.com/pedrogriff/relata)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-Talos%20Linux%20v1.36-326ce5?style=flat&logo=kubernetes&logoColor=white)](https://github.com/pedrogriff/homelab-k8s-talos)
 
 ---
 
