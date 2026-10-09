@@ -1,4 +1,4 @@
-# Hi! I am Pedro 👋
+# Pedro Griff Marcincowski
 
 I work in compensation and I build AI agents for pay decisions. Models write the words. Code computes the money.
 
