@@ -12,6 +12,10 @@ I work in compensation and I build AI agents for pay decisions. Models write the
 | [vesting-sim-engine](https://github.com/pedrogriff/vesting-sim-engine) | Vesting schedules whose monthly tranches always add up to the grant, plus Monte Carlo valuation | A property-based test that runs 200 random grants of up to 10 million shares |
 | [relata](https://github.com/pedrogriff/relata) | Share-based payment accounting under IFRS 2 and Brazil's CPC 10, served to AI clients over MCP | 50 test functions and a [live demo](https://www.playgriff.me/relata/) |
 
+## Infrastructure
+
+- [homelab-k8s-talos](https://github.com/pedrogriff/homelab-k8s-talos). The bare-metal Kubernetes cluster my projects run on. Talos Linux on Proxmox, Argo CD for deploys, Prometheus and Grafana for metrics. It runs comp-flow-platform and a compensation MCP demo.
+
 ## Earlier experiments
 
 - [people-agent-mesh](https://github.com/pedrogriff/people-agent-mesh). My first multi-agent system, with human approval steps, PII tokenization and evals. I'd build it differently now.
@@ -20,7 +24,6 @@ I work in compensation and I build AI agents for pay decisions. Models write the
 
 ## Lab
 
-- [homelab-k8s-talos](https://github.com/pedrogriff/homelab-k8s-talos). Bare-metal Kubernetes on Talos Linux, managed with GitOps.
 - [algocore-ds](https://github.com/pedrogriff/algocore-ds). Data structures from scratch, with benchmarks.
 - [libft](https://github.com/pedrogriff/libft) and [42sp-Basecamp](https://github.com/pedrogriff/42sp-Basecamp). C from 42 São Paulo in 2021, including my first library.
 
