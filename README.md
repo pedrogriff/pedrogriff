@@ -1,14 +1,14 @@
 # Pedro Griff Marcincowski
 
-I work in compensation and I build AI agents for pay decisions. Models write the words. Code computes the money.
+I work in compensation and I build AI agents that prepare comp analysis. Models write the words. Code computes the money. People decide.
 
-**Now.** I'm building [comp-insight-advisor](https://github.com/pedrogriff/comp-insight-advisor) in public. It reads a synthetic company's pay, equity and offer data and drafts a retention brief for a VP. I post a build log every Tuesday on [LinkedIn](https://www.linkedin.com/in/pedrogriff/). The latest is [1,000 shares granted, 1,008 vested](https://www.linkedin.com/feed/update/urn:li:activity:7513977087645466624/).
+**Now.** I'm building [comp-insight-advisor](https://github.com/pedrogriff/comp-insight-advisor) in public. It reads a synthetic company's pay, equity and offer data and drafts a retention brief. A comp partner reviews it and decides what goes to a VP. I post a build log every Tuesday on [LinkedIn](https://www.linkedin.com/in/pedrogriff/). The latest is [1,000 shares granted, 1,008 vested](https://www.linkedin.com/feed/update/urn:li:activity:7513977087645466624/).
 
 ## Projects
 
 | Project | What it does | What backs it |
 | :--- | :--- | :--- |
-| [comp-insight-advisor](https://github.com/pedrogriff/comp-insight-advisor) | Drafts retention briefs for a VP. SQL and Python compute every number. The model writes the words. | A design checkpoint, three deterministic tools and a status table I update every Tuesday |
+| [comp-insight-advisor](https://github.com/pedrogriff/comp-insight-advisor) | Drafts retention briefs for a comp partner to review. SQL and Python compute every number. The model writes the words. | A design checkpoint, three deterministic tools and a status table I update every Tuesday |
 | [vesting-sim-engine](https://github.com/pedrogriff/vesting-sim-engine) | Vesting schedules whose monthly tranches always add up to the grant, plus Monte Carlo valuation | A property-based test that runs 200 random grants of up to 10 million shares |
 | [relata](https://github.com/pedrogriff/relata) | Share-based payment accounting under IFRS 2 and Brazil's CPC 10, served to AI clients over MCP | 50 test functions and a [live demo](https://www.playgriff.me/relata/) |
 
