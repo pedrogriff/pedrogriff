@@ -2,7 +2,7 @@
 
 I work in compensation and I build AI agents that prepare comp analysis. Models write the words. Code computes the money. People decide.
 
-**Now.** I'm building [comp-insight-advisor](https://github.com/pedrogriff/comp-insight-advisor) in public. It reads a synthetic company's pay, equity and offer data and drafts a retention brief. A comp partner reviews it and decides what goes to a VP. I post a build log every Tuesday on [LinkedIn](https://www.linkedin.com/in/pedrogriff/). The latest is [Build Log 1/7](https://www.linkedin.com/feed/update/urn:li:activity:7515786546697117696/).
+**Now.** I'm building [comp-insight-advisor](https://github.com/pedrogriff/comp-insight-advisor) in public. It reads a synthetic company's pay, equity and offer data and drafts a retention brief. A comp partner reviews it and decides what goes to a VP. I post a build log every Tuesday on [LinkedIn](https://www.linkedin.com/in/pedrogriff/). The latest is [6 questions I'd ask before AI touches Comp cycle](https://www.linkedin.com/feed/update/urn:li:activity:7516529359785000960/).
 
 ## Projects
 
