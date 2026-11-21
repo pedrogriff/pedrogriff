@@ -2,25 +2,18 @@
 
 I work in compensation and I build AI agents that prepare comp analysis. Models write the words. Code computes the money. People decide.
 
-**Now.** I'm building [comp-insight-advisor](https://github.com/pedrogriff/comp-insight-advisor) in public. It reads a synthetic company's pay, equity and offer data and drafts a retention brief. A comp partner reviews it and decides what goes to a VP. I post a build log every Tuesday on [LinkedIn](https://www.linkedin.com/in/pedrogriff/). The latest is [Build log 2/7. I gave a model 500 employee rows and asked how many people face a big pay drop.](https://www.linkedin.com/feed/update/urn:li:activity:7518326192945430531/).
+**Now.** I'm building [comp-insight-advisor](https://github.com/pedrogriff/comp-insight-advisor) in public, my capstone for Carnegie Mellon's 2026 executive education program in agentic AI. It reads a synthetic company's pay, equity and offer data and drafts a retention brief. A comp partner reviews it and decides what goes to a VP. I post a build log every Tuesday on [LinkedIn](https://www.linkedin.com/in/pedrogriff/). The latest is [Build log 6/7. 155 of 160 planted faults caught](https://www.linkedin.com/feed/update/urn:li:activity:7528650394504249344/).
 
 ## Projects
 
 | Project | What it does | What backs it |
 | :--- | :--- | :--- |
-| [comp-insight-advisor](https://github.com/pedrogriff/comp-insight-advisor) | Drafts retention briefs for a comp partner to review. SQL and Python compute every number. The model writes the words. | A design checkpoint, three deterministic tools and a status table I update every Tuesday |
+| [comp-insight-advisor](https://github.com/pedrogriff/comp-insight-advisor) | Guarded five-node LangGraph squad that drafts retention and policy briefs for a comp partner to review. SQL and Python compute every number. The model writes the summary paragraph, held to the facts. | 238 tests, 158 of 163 seeded faults rejected, a [scorecard](https://github.com/pedrogriff/comp-insight-advisor/blob/main/experiments/final_evaluation/scorecard.md), the [final report](https://github.com/pedrogriff/comp-insight-advisor/blob/main/checkpoints/checkpoint_7_1.md) and a [demo video](https://youtu.be/YprdRwfI1LU) |
 | [vesting-sim-engine](https://github.com/pedrogriff/vesting-sim-engine) | Vesting schedules whose monthly tranches always add up to the grant, plus Monte Carlo valuation | A property-based test that runs 200 random grants of up to 10 million shares |
-| [relata](https://github.com/pedrogriff/relata) | Share-based payment accounting under IFRS 2 and Brazil's CPC 10, served to AI clients over MCP | 50 test functions and a [live demo](https://www.playgriff.me/relata/) |
 
 ## Infrastructure
 
-- [homelab-k8s-talos](https://github.com/pedrogriff/homelab-k8s-talos). The bare-metal Kubernetes cluster my projects run on. Talos Linux on Proxmox, Argo CD for deploys, Prometheus and Grafana for metrics. It runs comp-flow-platform and a compensation MCP demo.
-
-## Earlier experiments
-
-- [people-agent-mesh](https://github.com/pedrogriff/people-agent-mesh). My first multi-agent system, with human approval steps, PII tokenization and evals. I'd build it differently now.
-- [nextcomp](https://github.com/pedrogriff/nextcomp). A salary range workbench for midpoint and spread changes. [Demo](https://www.playgriff.me/nextcomp/)
-- [comp-flow-platform](https://github.com/pedrogriff/comp-flow-platform). A merit and offer workflow service with a rules-checking agent.
+- [homelab-k8s-talos](https://github.com/pedrogriff/homelab-k8s-talos). The bare-metal Kubernetes cluster my projects run on. Talos Linux on Proxmox, Cilium eBPF, Argo CD for deploys, Prometheus and Grafana for metrics. It runs a merit and offer workflow service, a compensation MCP service and Ollama with pgvector.
 
 ## Lab
 
