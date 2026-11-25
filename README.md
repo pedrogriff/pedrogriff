@@ -2,7 +2,7 @@
 
 I work in compensation and I build AI agents that prepare comp analysis. Models write the words. Code computes the money. People decide.
 
-**Now.** I'm building [comp-insight-advisor](https://github.com/pedrogriff/comp-insight-advisor) in public, my capstone for Carnegie Mellon's 2026 executive education program in agentic AI. It reads a synthetic company's pay, equity and offer data and drafts a retention brief. A comp partner reviews it and decides what goes to a VP. I post a build log every Tuesday on [LinkedIn](https://www.linkedin.com/in/pedrogriff/). The latest is [Build log 6/7. 155 of 160 planted faults caught](https://www.linkedin.com/feed/update/urn:li:activity:7528650394504249344/).
+**Now.** I just wrapped up [comp-insight-advisor](https://github.com/pedrogriff/comp-insight-advisor), my capstone for Carnegie Mellon's 2026 executive education program in agentic AI. It reads a synthetic company's pay, equity and offer data and drafts a retention brief. A comp partner reviews it and decides what goes to a VP. All seven build logs are on [LinkedIn](https://www.linkedin.com/in/pedrogriff/), ending with [Build log 7/7. Demo and scorecard](https://www.linkedin.com/feed/update/urn:li:activity:7531228842783408128/).
 
 ## Projects
 
